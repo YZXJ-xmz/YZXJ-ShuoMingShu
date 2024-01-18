@@ -11,4 +11,17 @@
 
 柚子相机把人工智能、物联网和创客教育相结合，依靠Maix-II人工智能生态和掌控板创客教育生态，是面向人工智能的创客教育新工具。
 
+底板
 https://m.hlcode.cn/?id=NEeNKWy
+
+底板（背面
+https://m.hlcode.cn/?id=NEeNKWi
+
+上板
+https://m.hlcode.cn/?id=NEeNKWS
+
+上板（背面
+https://m.hlcode.cn/?id=NEeNKWv
+
+具体参数
+https://m.hlcode.cn/?id=NEeNKHA
