@@ -25,3 +25,9 @@ https://m.hlcode.cn/?id=NEeNKWv
 
 具体参数
 https://m.hlcode.cn/?id=NEeNKHA
+
+编程软件
+
+柚子软件支持下列软件
+
+1，mind+下载：https：//mindplus.cc/
