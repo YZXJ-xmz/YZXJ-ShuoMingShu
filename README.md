@@ -30,4 +30,13 @@ https://m.hlcode.cn/?id=NEeNKHA
 
 柚子软件支持下列软件
 
-1，mind+下载：https://mindplus.cc/
+1.mind+下载：https://mindplus.cc/
+
+2.mpythonX下载：https://www.labplus.cn/equip-mPython
+
+3.米思齐：https://mixly.org/
+
+maix-ll请使用python编程
+
+1.maixpy下载：https://pypi.org/project/maixpy3/#hisytory
+（柚子相机默认已经安装）
