@@ -7,6 +7,7 @@
 
 柚子相机是面向人工智能、物联网创新的科创教育开源项目，由YuzuMaix掌控相机项目组联合发起，致力于为全国中小学生提供一系列人工智能教育、科创教育方案。
 
+
 柚子相机基于当前人工智能教育、创客教育生态，选择了矽速科技有限公司的开源硬件Maix-II（V831）和“虚谷计划”的掌控板（ESP32）作为开发路线。
 
 柚子相机把人工智能、物联网和创客教育相结合，依靠Maix-II人工智能生态和掌控板创客教育生态，是面向人工智能的创客教育新工具。
@@ -23,8 +24,10 @@ https://m.hlcode.cn/?id=NEeNKWS
 上板（背面
 https://m.hlcode.cn/?id=NEeNKWv
 
+
 具体参数
 https://m.hlcode.cn/?id=NEeNKHA
+
 
 编程软件
 
@@ -35,6 +38,7 @@ https://m.hlcode.cn/?id=NEeNKHA
 2.mpythonX下载：https://www.labplus.cn/equip-mPython
 
 3.米思齐：https://mixly.org/
+
 
 maix-ll请使用python编程
 
