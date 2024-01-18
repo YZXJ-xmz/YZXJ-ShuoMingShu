@@ -30,4 +30,4 @@ https://m.hlcode.cn/?id=NEeNKHA
 
 柚子软件支持下列软件
 
-1，mind+下载：https：//mindplus.cc/
+1，mind+下载：https://mindplus.cc/
